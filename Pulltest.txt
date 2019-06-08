@@ -1,8 +1,1 @@
-git add
-git pull
-git merge
-git checkout
-git push
-
-
-lunch time
+this is for test
