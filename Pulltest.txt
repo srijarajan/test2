@@ -3,3 +3,5 @@ git pull
 git merge
 git checkout
 git push
+
+test
