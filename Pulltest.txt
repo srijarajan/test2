@@ -4,4 +4,9 @@ git merge
 git checkout
 git push
 
+<<<<<<< HEAD
 test
+=======
+
+lunch time
+>>>>>>> 46d9bd389df480a072243904b0d70499f3e108df
