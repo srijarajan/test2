@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git add
 git pull
 git merge
@@ -10,3 +11,6 @@ test
 
 lunch time
 >>>>>>> 46d9bd389df480a072243904b0d70499f3e108df
+=======
+this is for test
+>>>>>>> 61766b0b89c18a4c1d2b24afdb1fc5b412a094f4
