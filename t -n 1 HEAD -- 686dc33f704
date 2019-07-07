@@ -1,0 +1,235 @@
+[33mcommit 7d185681e3cb9654caa64ff76f273099a87720c1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: karthikram003 <karthik.raman003@gmail.com>
+Date:   Sun Jul 7 11:35:17 2019 +0530
+
+    123
+
+[33mcommit 686dc33f704caaf20b32672bddd6a0bc6d726724[m
+Author: karthikram003 <karthik.raman003@gmail.com>
+Date:   Sun Jul 7 11:28:04 2019 +0530
+
+    A1A5
+
+[33mcommit 4aed917f77309d93fd98555fad50cd6243c05ed8[m
+Author: karthikram003 <karthik.raman003@gmail.com>
+Date:   Sun Jul 7 11:25:26 2019 +0530
+
+     hello
+
+[33mcommit 156d4e487278f244d484a6d6f880b7a5caf9e60a[m
+Author: karthikram003 <karthik.raman003@gmail.com>
+Date:   Sun Jul 7 11:21:57 2019 +0530
+
+    a1text
+
+[33mcommit 16743a42a640e61c3e895a7813f6c601ecc00cfc[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sun Jul 7 11:17:55 2019 +0530
+
+    Update A1.txt
+
+[33mcommit 563c56dcec08cb63e5c7ffd968301da952f1c75f[m
+Author: karthikram003 <karthik.raman003@gmail.com>
+Date:   Sun Jul 7 10:33:17 2019 +0530
+
+    A1.txt
+
+[33mcommit 34d262dfd3fd1e504e87617e7e9798e3e350e968[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 14:09:56 2019 +0530
+
+    test1.txt
+
+[33mcommit bb77164633fece5e29bd327e5d54ae44152f311f[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 14:08:58 2019 +0530
+
+    test
+
+[33mcommit 3655ba3d3e30451e5f36735fe166ddab11adc227[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 14:07:34 2019 +0530
+
+    test
+
+[33mcommit 701b3bf346980cc03276cbc413b0d2fa8a8f35b4[m
+Merge: 1d79224 04e3843
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 14:03:24 2019 +0530
+
+    test2 Merge branch 'master' of https://github.com/srijarajan/test2
+
+[33mcommit 1d79224d5163bd54c1b858d9b048fec92f755c1b[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 14:03:10 2019 +0530
+
+    test2
+
+[33mcommit 04e3843dfcb6e767a23f7751e2a59c235431aece[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 14:01:50 2019 +0530
+
+    Create test1
+
+[33mcommit ed30dc41b1cf3d1500cdbf557fe6f828b4e440de[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 13:55:09 2019 +0530
+
+    removefiles
+
+[33mcommit 444d30df75c5f52ef814d2bdd0920a75941c253f[m
+Merge: 82b149b eba2ce9
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 13:45:55 2019 +0530
+
+    text7
+
+[33mcommit 82b149b6652d7765090fad34641bb3315165c784[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 13:44:14 2019 +0530
+
+    text6
+
+[33mcommit eba2ce97311683a8c1a9b92de516f8ac6180970e[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 13:43:20 2019 +0530
+
+    Update Pulltest1.txt
+
+[33mcommit aac809abd1fa2774038131d3e021da60c4b00bfa[m
+Merge: e5bb99b a598b90
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 13:35:42 2019 +0530
+
+    push2
+
+[33mcommit e5bb99b6b18f0fc8495b16583942b59281ecea18[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 13:32:05 2019 +0530
+
+    push1
+
+[33mcommit a598b907f3e47b9262b78cf7c773b1cb29b21f4d[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 13:30:03 2019 +0530
+
+    Update Pulltest1.txt
+
+[33mcommit e8eb4162af623a27d991d5ea03e88e6811e2a007[m
+Merge: 9908492 69016df
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 13:27:47 2019 +0530
+
+    test5
+
+[33mcommit 990849205ac9bbb174bcb47e5ff47c07effb57c6[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 13:22:49 2019 +0530
+
+    test
+
+[33mcommit 69016dfea59ea91134a847f05783b38c56ff83dd[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 13:20:07 2019 +0530
+
+    Update Pulltest1.txt
+
+[33mcommit b3608963655e616bc11001b818a241e2347f9ff2[m
+Merge: 4942f98 07f6461
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 13:17:04 2019 +0530
+
+    test1 Merge branch 'master' of https://github.com/srijarajan/test2
+
+[33mcommit 4942f98cba47dba6120fd40df3e6e73a3bb69d64[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 13:16:40 2019 +0530
+
+    text2
+
+[33mcommit 07f646145f939adc7d0f0b363a99f5c8948907de[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 13:14:33 2019 +0530
+
+    Update Pulltest1.txt
+
+[33mcommit 2f659b3aa05ea6d5cc25eccda0bd506915037f4a[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 13:13:42 2019 +0530
+
+    Update Pulltest1.txt
+
+[33mcommit 1e1d78ef332ab12c23c2b61bec7481814d3b41ca[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 13:11:53 2019 +0530
+
+    text
+
+[33mcommit ac524214df4366dfe212d0a86ce3ef94951b1394[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 13:05:55 2019 +0530
+
+    Create sample
+
+[33mcommit 3577bf81f305144eedd3b4cec6ad18bb46cdffe7[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 13:04:16 2019 +0530
+
+    Pulltest.txt
+
+[33mcommit b39bb56a5a617fb2648c5dd4a301cd5978c968e5[m
+Merge: ca1f381 61766b0
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 12:53:03 2019 +0530
+
+    text1
+
+[33mcommit 61766b0b89c18a4c1d2b24afdb1fc5b412a094f4[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 12:51:28 2019 +0530
+
+    Update Pulltest.txt
+
+[33mcommit ca1f381e3b1b772146852aab377b4b4b22adfaf9[m
+Merge: 6c5c4be cf9670f
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 12:44:07 2019 +0530
+
+    rerMerge branch 'master' of https://github.com/srijarajan/test2
+
+[33mcommit cf9670fff36b505e8d8edb0d0940b457dfdc5062[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 12:43:38 2019 +0530
+
+    Create summa
+
+[33mcommit 6c5c4be142bfb430cd35c4a0c9247c4a1188f8e6[m
+Merge: 8d36918 46d9bd3
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 12:43:01 2019 +0530
+
+    text
+
+[33mcommit 8d3691828043f9014fe82e1ebd0a5b51c974a521[m
+Author: naveenkarthi <naveenbalasekars@gmail.com>
+Date:   Sat Jun 8 12:38:08 2019 +0530
+
+    demo
+
+[33mcommit 46d9bd389df480a072243904b0d70499f3e108df[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 12:37:49 2019 +0530
+
+    Update Pulltest.txt
+
+[33mcommit 84335cef739873fac7031bb6f1aea85f80e43af4[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 12:10:43 2019 +0530
+
+    Update Pulltest.txt
+
+[33mcommit 81d0112e22022e729abea0e9b3ab8075447368d3[m
+Author: srijarajan <51256362+srijarajan@users.noreply.github.com>
+Date:   Sat Jun 8 12:09:29 2019 +0530
+
+    Create Pulltest.txt
