@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-Naveen
-=======
-Hello world
->>>>>>> Stashed changes
